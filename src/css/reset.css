@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    cursor: auto;
+    text-decoration: none;
+}
+
+button{
+    padding: 0;
+    border: none;
+    outline: none;
+}
+
+ul{
+    text-decoration: none;
+}
